@@ -1110,7 +1110,7 @@ figcaption a
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 80%;
+    width: 45%;
     height: auto;
     position: fixed;
     overflow: hidden;
@@ -1311,7 +1311,6 @@ figcaption a
 
 	#grande{
 		width: 80%;
-		background-color: red;
 	}
 	}
 
