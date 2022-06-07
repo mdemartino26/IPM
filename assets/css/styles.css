@@ -1308,6 +1308,11 @@ figcaption a
 			width:50%;
 			margin:0 auto;
 			}
+
+	#grande{
+		width: 80%;
+		background-color: red;
+	}
 	}
 
 /* 600px */
