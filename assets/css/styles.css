@@ -121,7 +121,7 @@ h3
 		text-align: center;
 		display: flex;
 		text-decoration: none;
-		color:black;
+		color:white;
 		flex-wrap: wrap;
 		justify-content: space-between;
 		align-items: center;
@@ -1028,7 +1028,7 @@ __________________________________________________________
 ________________________________________________________*/
 
 a {
-	color: white;
+	color: black;
 }
 
 #trabajos 
